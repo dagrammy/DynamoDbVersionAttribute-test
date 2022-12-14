@@ -2,6 +2,8 @@
 
 Sample project to reproduce error while using `@DynamoDBVersionAttribute` with `quarkus-amazon-dynamodb-enhanced` extension in native mode.
 
+https://github.com/quarkiverse/quarkus-amazon-services/issues/416
+
 Non-native:
 
 ```
